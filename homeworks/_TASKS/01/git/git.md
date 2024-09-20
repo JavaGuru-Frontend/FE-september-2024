@@ -15,7 +15,7 @@ mac         https://sourceforge.net/projects/git-osx-installer/
 - создать в удобном месте папочку на вашем компьютере где будете хранить наш проект  
 - склонировать репозиторий  
 ![clone repo](./step4.png)   
-- ссылка на репозиторий https://github.com/JavaGuru-Frontend/group_5  
+- ссылка на репозиторий https://github.com/JavaGuru-Frontend/FE-september-2024  
 ![clone repo](./step5.png)  
 
 ## команды GIT
