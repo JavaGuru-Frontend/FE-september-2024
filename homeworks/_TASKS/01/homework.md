@@ -7,7 +7,7 @@
     Apple users               --> https://sourceforge.net/projects/git-osx-installer/
 - подключить аккаунт github в visual studio code 
 - клонировать репозиторий     --> https://github.com/JavaGuru-Frontend/FE-2024-may.git
-- инструкция -> [настройка GIT]().
+- инструкция -> [настройка GIT](https://github.com/JavaGuru-Frontend/FE-september-2024/blob/main/homeworks/_TASKS/01/git/git.md).
 ---
 
 ## Задание
