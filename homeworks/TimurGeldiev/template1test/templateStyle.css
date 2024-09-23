@@ -1,5 +1,5 @@
 .navigation-bar {
-    width: 100%;
+    width: 1440px;
     height: 116px;
     display: flex;
     align-items: center;
@@ -11,14 +11,12 @@
     align-items: center;
     width: 100%;
     height: 61.87px;
-    top: 27.07px;
 
 }
 
 .navigation-center nav {
     width: 331px;
     height: 21.27px;
-    top: 20.3px;
 }
 
 nav ul {
@@ -47,7 +45,6 @@ nav ul li a {
 .navigation-bar img {
     width: 41px;
     height: 39px;
-    top: 39px;
     margin-left: 80px;
 }
 
@@ -70,18 +67,16 @@ nav ul li a {
 }
 
 .hero-side-img-right{
-    width: 100%;
+    width: 1440px;
     height: 700px;
-    top: 117px;
     background-color: #F1F1F2;  
     display: flex;
     align-items: center;
 }
 
-.hero-side-img-right .content{
+.content{
     width: 433px;
     height: 411px;
-    top: 154px;
     margin-left: 162px;
     display: block;
 }
@@ -90,7 +85,11 @@ h1{
     font-size: 56px;
     width: 433px;
     height: 206px;
-    top: 154px;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: normal;
 }
 h3{
     font-family: Arial, Helvetica, sans-serif;
@@ -98,7 +97,6 @@ h3{
     font-weight: 200;
     width: 422px;
     height: 57px;
-    top: 396px;
 }
 .content .button-primary{
     width: 200px;
@@ -117,9 +115,44 @@ h3{
     cursor: pointer;
 }
 .hero-side-img-right img{
-    display: block;
     width: 719px;
     height: 700px;
-    margin-left: 126px;
+    margin-left: auto;
     background-color: #F1F1F2;
+}
+.feature-split-right{
+    width: 1440px;
+    height: 600px;
+    background-color: #F1F1F2;  
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.feature-split-right img{
+    width: 721px;
+    height: 600px;
+}
+.second-content{
+    width: 441px;
+    height: 332px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 833px;
+    top: 164px
+}
+.second-content .button-learn-more{
+    width: 200px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid orange;
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-top: auto;
+    cursor: pointer;
+    border-radius: 5px;
+    white-space: nowrap;
 }
